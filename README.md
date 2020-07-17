@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML, CSS, Javascript, Angular/ Ionic, Node, Firebase etc.
 - 📫 How to reach me: [website]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm very good with FIFA 20 (Video Game) and I know some things about music too.
+- ⚡ Fun fact: I'm very good with FIFA 20 (Video Game) and I know some things about music too
 
 ## Find me around the web 🌎:
 🏡 [website][website] **|** 
