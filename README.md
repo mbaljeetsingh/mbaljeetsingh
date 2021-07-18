@@ -1,7 +1,7 @@
 [![bg][cover]][website]
 ### Hi, I'm Baljeet and I am a Full Stack Web/Mobile Developer 👨‍💻
 
-- 🔭 I’m currently working on MxGraph
+- 🔭 I’m currently working on Vue, Vuetify
 - 🌱 I’m currently learning Tailwind CSS 
 - 👯 I’m looking to collaborate on creating articles/videos
 - 🤔 I’m looking for help with setting up professional home studio for recording
