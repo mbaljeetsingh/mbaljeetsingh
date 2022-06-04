@@ -1,14 +1,14 @@
 [![bg][cover]][website]
 ### Hi, I'm Baljeet and I am a Full Stack Web/Mobile Developer 👨‍💻
 
-- 🔭 I’m currently working on Vue, Vuetify
-- 🌱 I’m currently learning Tailwind CSS 
+- 🔭 I’m currently working on Vue, Nuxt
+- 🌱 I’m currently learning Cloud technologies 
 - 👯 I’m looking to collaborate on creating articles/videos
 - 🤔 I’m looking for help with setting up professional home studio for recording
 - 💬 Ask me about HTML, CSS, Javascript, Angular/ Ionic, Vue, Node, Firebase etc.
 - 📫 How to reach me: [website]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm very good with FIFA 20 (Video Game) and I know some things about music too
+- ⚡ Fun fact: I'm very good with FIFA (Video Game) and I know some things about music too
 
 ## Find me around the web 🌎:
 🏡 [website][website] **|** 
