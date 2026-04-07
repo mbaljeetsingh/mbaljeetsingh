@@ -1,35 +1,25 @@
 [![bg][cover]][website]
-### Hi, I'm Baljeet and I am a Full Stack Web/Mobile Developer 👨‍💻
+  ### Hi, I'm Baljeet and I am a Full Stack Web/Mobile Developer 👨‍💻
 
-- 🔭 I’m currently working on Vue, Nuxt
-- 🌱 I’m currently learning Cloud technologies 
-- 👯 I’m looking to collaborate on creating articles/videos
-- 🤔 I’m looking for help with setting up professional home studio for recording
-- 💬 Ask me about HTML, CSS, Javascript, Angular/ Ionic, Vue, Node, Firebase etc.
-- 📫 How to reach me: [website]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm very good with FIFA (Video Game) and I know some things about music too
+  - 🔭 I'm currently working on [np-mono](https://github.com/mbaljeetsingh) — a Kirtan & Sangeet notation platform (Vue, Nuxt,
+  Supabase)
+  - 🌱 I'm currently learning AI agent workflows and building LLM-powered tools
+  - 🛠️ I build with Vue, Nuxt, Node, Supabase, GraphQL, Tailwind CSS, and Claude Code
+  - ✍️ I write about web dev, Claude Code workflows, and AI tooling on my [blog](https://baljeetsingh.in)
+  - 🏸 Fun fact: I play badminton and I know some things about music too
+  - 💬 Ask me about Vue, Nuxt, Supabase, GraphQL, monorepo architecture, or Claude Code
+  - 📫 How to reach me: [baljeetsingh.in][website]
 
-## Find me around the web 🌎:
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📦 [npm][npm] **|**
-👔 [linkedin][linkedin]
+  ## Find me around the web 🌎:
+  🏡 [website][website] **|**
+  🐦 [twitter][twitter] **|**
+  📺 [youtube][youtube] **|**
+  📦 [npm][npm] **|**
+  👔 [linkedin][linkedin]
 
-[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover.png
-[website]: https://baljeetsingh.in
-[twitter]: https://twitter.com/mbaljeetsingh
-[youtube]: https://youtube.com/BaljeetSingh
-[npm]: https://npmjs.com/~mbaljeetsingh
-[linkedin]: https://linkedin.com/in/mbaljeetsingh
-[adobe]: https://adobe.com
-[react]: http://reactjs.org
-[gatsby]: https://gatsbyjs.org
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[murphee]: https://murphee.netlify.app
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
+  [cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover.png
+  [website]: https://baljeetsingh.in
+  [twitter]: https://twitter.com/mbaljeetsingh
+  [youtube]: https://youtube.com/BaljeetSingh
+  [npm]: https://npmjs.com/~mbaljeetsingh
+  [linkedin]: https://linkedin.com/in/mbaljeetsingh
