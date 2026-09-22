@@ -7,7 +7,7 @@ C-Suite Circle, alongside a revenue-generating notation SaaS I build and operate
 myself — auth, payments, data model, native apps, and the LLM features.
 
 - 🤖 **In production:** a vision pipeline on the Anthropic Claude API that reads a
-  photograph of handwritten Bhatkhande notation and returns structured, editable
+  photograph of printed Bhatkhande notation and returns structured, editable
   notation — domain grounding, staged extraction, and schema validation before
   anything reaches the user
 - 🧩 Before that, I led the frontend of **Cognitive Cloud** — a platform giving AI
