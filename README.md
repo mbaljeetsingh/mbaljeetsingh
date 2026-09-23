@@ -1,28 +1,34 @@
 [![bg][cover]][website]
 
-### Hi, I'm Baljeet — I build the product layer on top of AI 👨‍💻
+### Hi, I'm Baljeet — a frontend & product engineer who also builds the AI layer 👨‍💻
 
-Twelve years shipping web and mobile software. The last five leading frontend at
-C-Suite Circle, alongside a revenue-generating notation SaaS I build and operate
-myself — auth, payments, data model, native apps, and the LLM features.
+Twelve years shipping web and mobile software in Vue, React and TypeScript. The last
+five as Technical Lead Frontend at C-Suite Circle, alongside a revenue-generating
+notation SaaS I build and operate myself — auth, payments, data model, native apps,
+and the LLM features.
 
-- 🤖 **In production:** a vision pipeline on the Anthropic Claude API that reads a
-  photograph of printed Bhatkhande notation and returns structured, editable
-  notation — domain grounding, staged extraction, and schema validation before
-  anything reaches the user
-- 🧩 Before that, I led the frontend of **Cognitive Cloud** — a platform giving AI
-  agents a catalog of ready-to-use tool integrations
+- 🎨 **Empathy DS** — a 60-component Vue design system I built solo and published on
+  npm, with its own MCP server so AI assistants look components up instead of
+  guessing props
+- 📱 **GatherCloud** — frontend and design-system lead on a React events platform,
+  with iOS and Android shipped from the same codebase via Capacitor
+- 🤖 **The AI layer** — principal author of an agent loop that runs coding agents in
+  Daytona sandboxes, and a vision pipeline on the Anthropic Claude API that turns a
+  photographed page of printed Bhatkhande notation into structured, editable
+  notation (live for admin accounts ahead of subscriber release)
+- 🧩 I also led the frontend of **Cognitive Cloud** — a platform giving AI agents a
+  catalog of ready-to-use tool integrations
 - 🛠️ I build with **Vue, Nuxt, React, Node, Supabase, Capacitor, Tailwind CSS** —
   and work AI-first day to day with **Claude Code**
 - ✍️ I write about web development, Claude Code workflows and AI tooling on my
   [blog][website]
-- 🎓 Udemy instructor, and tutorials on [YouTube][youtube]
+- 🎓 8 courses with 12,000+ enrollments, and tutorials on [YouTube][youtube]
 - 🏸 Fun fact: I play badminton and I know some things about music too
-- 💬 Ask me about LLM product integration, Vue/Nuxt, Supabase, monorepo
-  architecture, or Claude Code
+- 💬 Ask me about Vue/Nuxt and React architecture, design systems, Supabase, LLM
+  product integration, or Claude Code
 
-> **Open to Senior/Staff AI Product Engineer, Founding Engineer, Forward Deployed
-> and Solutions Engineer roles — remote, full-time or contract.**
+> **Open to Senior/Staff Frontend, Full-Stack and Product Engineer roles, including
+> AI product work — remote, full-time or contract.**
 > Reach me at [baljeetsingh.in][website] or on [LinkedIn][linkedin].
 
 ## Things you can actually try 🚀
@@ -35,7 +41,7 @@ myself — auth, payments, data model, native apps, and the LLM features.
   export, a PWA, and native iOS and Android apps via Capacitor
 - **[Sangeet Notation][sangeet]** — the same engine, for Indian classical music
 - **[Scoreboard][scoreboard]** — a live scorecard for racquet sports that streams
-  straight to OBS and TV
+  straight to OBS and TV · open source
 - **[Kirtan Player][kp-mono]** — search, play and tag 20 years of kirtan from Sri
   Harmandir Sahib · open source
 
@@ -46,7 +52,7 @@ myself — auth, payments, data model, native apps, and the LLM features.
 📦 [npm][npm] **|**
 👔 [linkedin][linkedin]
 
-[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover.png
+[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover.png?v=2026-09-24
 [website]: https://baljeetsingh.in
 [twitter]: https://twitter.com/mbaljeetsingh
 [youtube]: https://www.youtube.com/@mbaljeetsingh
