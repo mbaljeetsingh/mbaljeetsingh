@@ -52,7 +52,7 @@ and the LLM features.
 📦 [npm][npm] **|**
 👔 [linkedin][linkedin]
 
-[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover.png?v=2026-09-24
+[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover-2026-09.png
 [website]: https://baljeetsingh.in
 [twitter]: https://twitter.com/mbaljeetsingh
 [youtube]: https://www.youtube.com/@mbaljeetsingh
