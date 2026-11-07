@@ -1,34 +1,38 @@
 [![bg][cover]][website]
 
-### Hi, I'm Baljeet — a frontend & product engineer who also builds the AI layer 👨‍💻
+### Hi, I'm Baljeet — an AI product engineer who ships AI features end to end 👨‍💻
 
-Twelve years shipping web and mobile software in Vue, React and TypeScript. The last
-five as Technical Lead Frontend at C-Suite Circle, alongside a revenue-generating
-notation SaaS I build and operate myself — auth, payments, data model, native apps,
-and the LLM features.
+I ship AI features and measure them before I trust them, on twelve years of
+full-stack TypeScript in Vue, React and Node. The last five as Technical Lead
+Frontend at C-Suite Circle, alongside a revenue-generating notation SaaS I build
+and operate myself — auth, payments, data model, native apps, and the AI features.
 
+- 🔬 **Measured AI** — a vision pipeline on Claude that turns a photographed page of
+  printed Bhatkhande notation into editable notation: the first eval found a
+  31-point spread between repeat runs; after the fixes it gets about 99% of beats
+  right, at about 8 cents a page
+- 🤖 **Agents** — core contributor to an agent harness that runs coding and
+  general-purpose agents in Daytona sandboxes on the Claude Agent SDK; marketing
+  agents of my own that act only through a CLI enforcing the guardrails in code,
+  with my approval on every reply
+- 🧩 **Cognitive Cloud** — led the frontend and wrote the agents SDK for an AI
+  actions platform, plus a CLI exposing its actions over MCP
 - 🎨 **Empathy DS** — a 60-component Vue design system I built solo and published on
   npm, with its own MCP server so AI assistants look components up instead of
   guessing props
 - 📱 **GatherCloud** — frontend and design-system lead on a React events platform,
   with iOS and Android shipped from the same codebase via Capacitor
-- 🤖 **The AI layer** — principal author of an agent loop that runs coding agents in
-  Daytona sandboxes, and a vision pipeline on the Anthropic Claude API that turns a
-  photographed page of printed Bhatkhande notation into structured, editable
-  notation (live for admin accounts ahead of subscriber release)
-- 🧩 I also led the frontend of **Cognitive Cloud** — a platform giving AI agents a
-  catalog of ready-to-use tool integrations
 - 🛠️ I build with **Vue, Nuxt, React, Node, Supabase, Capacitor, Tailwind CSS** —
   and work AI-first day to day with **Claude Code**
 - ✍️ I write about web development, Claude Code workflows and AI tooling on my
   [blog][website]
 - 🎓 8 courses with 12,000+ enrollments, and tutorials on [YouTube][youtube]
 - 🏸 Fun fact: I play badminton and I know some things about music too
-- 💬 Ask me about Vue/Nuxt and React architecture, design systems, Supabase, LLM
-  product integration, or Claude Code
+- 💬 Ask me about evals, agents and MCP, Claude Code, Vue/Nuxt and React
+  architecture, design systems, or Supabase
 
-> **Open to Senior/Staff Frontend, Full-Stack and Product Engineer roles, including
-> AI product work — remote, full-time or contract.**
+> **Open to AI Product Engineer, Forward Deployed Engineer, Product Engineer and
+> Senior Full-Stack roles — remote, full-time or contract.**
 > Reach me at [baljeetsingh.in][website] or on [LinkedIn][linkedin].
 
 ## Things you can actually try 🚀
@@ -52,7 +56,7 @@ and the LLM features.
 📦 [npm][npm] **|**
 👔 [linkedin][linkedin]
 
-[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover-2026-09.png
+[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover-2026-11.png
 [website]: https://baljeetsingh.in
 [twitter]: https://twitter.com/mbaljeetsingh
 [youtube]: https://www.youtube.com/@mbaljeetsingh
